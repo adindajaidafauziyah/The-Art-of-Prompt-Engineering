@@ -1,11 +1,13 @@
-**The-Art-of-Prompt-Engineering**       
+# The Art of Prompt Engineering
 
-Author : Cognitive Class AI
+## 🔗Authors
 
-Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of The-Art-of-Prompt-Engineering from Cognitive Class AI
+- [Cognitive Class AI](https://courses.cognitiveclass.ai/)
 
-Mentee info 
+Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from Cognitive Class AI
 
+
+## 🐹 Mentee Info 
 Name : Adinda Jaida Fauziyah
 
 Program : IBM Advance AI
@@ -13,8 +15,10 @@ Program : IBM Advance AI
 * Python
 * HTML
 * CSS
-* JavaScript
-* Flask
+* PHP 
+
+
+
   
 
 
